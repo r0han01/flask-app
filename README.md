@@ -15,7 +15,7 @@ A brief description of your project and what it does.
 
 Provide a short overview of your project. Explain its purpose and features.
 
-## Technologies Used
+## Technologies Used in the Project
 
 - HTML5
 - CSS3
