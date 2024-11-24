@@ -25,5 +25,5 @@ Provide a short overview of your project. Explain its purpose and features.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/r0han01/flask-app.git
 # flask-app
