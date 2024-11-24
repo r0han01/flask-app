@@ -15,7 +15,7 @@ A brief description of your project and what it does.
 
 Provide a short overview of your project. Explain its purpose and features.
 
-## Technologies Used
+## Technologies Used in the Project
 
 - HTML5
 - CSS3
@@ -25,7 +25,7 @@ Provide a short overview of your project. Explain its purpose and features.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/r0han01/flask-app.git
 # flask-app
 # flask-app
 # flask-app
